@@ -1,0 +1,12 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\x86\Release\JoyconsTheory.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\x86\Release\JoyconsTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\x86\Release\JoyconsTheory.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.csprojResolveAssemblyReference.cache
+C:\Users\mic\Documents\micedition\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\x86\Release\JoyconsTheory.exe.config
+C:\Users\mic\Documents\micedition\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.exe
+C:\Users\mic\Documents\micedition\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\x86\Release\JoyconsTheory.pdb

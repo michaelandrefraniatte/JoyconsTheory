@@ -1,0 +1,173 @@
+C:\Users\Mic\Documents\micedition\JoyconsOnPC\forzahorizon2 (xbox)
+//brink
+False
+//metro
+True
+//titanfall
+False
+//cursor
+False
+//warface
+False
+//bo3
+False
+//fake
+False
+//mw3
+False
+//xaim
+False
+//LS2 press I/O
+False
+//LS2 accuracy
+False
+//wheel script
+False
+//LS2 view on
+False
+//LS2 aim plus
+False
+//stick view
+False
+//wheel view
+True
+//RSR RSL view
+True
+//rebind keys
+True
+//lock features and options
+False
+//push r 1'
+False
+//cancel reload x
+False
+//LS2 RS2 switch
+False
+//LS press I/O
+False
+//driver mouse
+True
+//driver keyboard
+True
+//swap
+False
+//cancel reload x
+ 
+//joycon left stick
+ 
+//joycon left up
+ 
+//joycon left down
+ 
+//joycon right S2
+G
+//joycon left S2
+ 
+//joycon plus
+Escape
+//joycon minus
+ 
+//joycon right stick
+Tab
+//joycon right home
+Escape
+//joycon right S1
+T
+//joycon left left
+ 
+//joycon left right
+ 
+//joycon left SL
+ 
+//joycon right SR
+left click
+//joycon right SL
+right click
+//joycon left SR
+ 
+//joycon right to front
+ 
+//joycon left to front
+V
+//joycon left stick up
+ 
+//joycon left S1
+Space
+//joycon left stick
+ 
+//joycon right stick down
+Q
+//joycon left stick down
+ 
+//joycon right stick left
+Y
+//joycon right stick right
+U
+//joycon right stick up
+up
+//joycon left stick left
+ 
+//joycon left stick right
+ 
+//joycon right up
+right
+//joycon right down
+left
+//joycon right left
+up
+//joycon right right
+down
+//joycon left capture
+ 
+//joycon right to front push r time extra setting
+1000
+//cancel reload waiting LS2 time extra setting
+1800
+//brink or titanfall time extra setting
+30
+//bo3 time extra setting
+15
+//smooth time extra setting
+15
+//aim plus latency time extra setting
+300
+//aim plus quantity extra setting
+30
+//anti-tearing outer size
+0
+//hardness quantity
+100
+//aim speed axis x quantity
+100
+//aim speed axis y quantity
+100
+//aim speed accuracy size of center axis x extra setting
+0
+//aim speed accuracy multipler of center axis x extra setting
+0
+//aim speed accuracy size of center axis y extra setting
+0
+//aim speed accuracy multipler of center axis y extra setting
+0
+//no recoil quantity extra setting
+0
+//RS2 switch interval time extra setting
+6
+//RS2 switch press delay time extra setting
+18
+//tick time
+6
+//wheel script stick limit in
+33
+//wheel script stick limit out
+2000
+//zoning quantity
+100
+//zoning hardness quantity
+100
+//no recoil step quantity
+0
+//List of possible entries:
+WASD, ZQSD, arrow keys, AD, QD, left right arrow keys, A, B, C, D, E, ..., X, Y, Z, 0, 1, 2, ..., 8, 9, F1, F2, F3, ..., F11,
+F12, Capslock, Alt, Back, Apostrophe, left, right, up, down, Escape, Control, LControl, RControl, Shift, LShift, RShift,
+Enter, Space, Tab, wheel down, wheel up, middle click, left click, right click, 0-4, 5-9, Enter/Tab.

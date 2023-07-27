@@ -1,0 +1,19 @@
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.exe.config
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.Form1.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.Properties.Resources.resources
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.csproj.GenerateResource.Cache
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.pdb
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.exe
+C:\Users\Mic\Documents\Visual Studio 2012\Projects\JoyconsByMic - C#\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.pdb
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.exe.config
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.exe
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\bin\Release\JoyconsTheory.pdb
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.Form1.resources
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.exe
+C:\Users\mic\Documents\GitHub\JoyconsTheory\Src\JoyconsTheory\JoyconsTheory\obj\Release\JoyconsTheory.pdb

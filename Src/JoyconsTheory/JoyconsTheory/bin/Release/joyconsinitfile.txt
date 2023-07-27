@@ -1,0 +1,4 @@
+//path to last open or save file
+
+//enable autoload of last open or save file
+True
