@@ -1,3 +1,1 @@
-﻿https://michaelandrefraniatte.github.io/JoyconsTheoryOfficial  
-  
-https://github.com/michaelandrefraniatte  
+﻿https://github.com/michaelandrefraniatte
